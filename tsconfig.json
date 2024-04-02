@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "./typescript/dist",
+    "allowJs": true,
+    "target": "es5",
+    "allowUnreachableCode": false,
+    "noImplicitReturns": true,
+    "noImplicitAny": true
+  },
+  "include": ["./typescript/*"],
+  "exclude": ["./javascript/*"]
+}
